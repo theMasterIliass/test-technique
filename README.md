@@ -1,4 +1,4 @@
-# Projet Spring Boot
+# Projet Spring Boot Angular
 
 Ce projet est une application full-stack avec back-end développée avec Spring Boot et front-end avec Angular 20.
 
